@@ -15,5 +15,4 @@ public aspect MethodTrackingAspect {
 		return result;
 	}
 	
-	
 }

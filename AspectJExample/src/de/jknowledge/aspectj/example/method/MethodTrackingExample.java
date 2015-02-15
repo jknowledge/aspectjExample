@@ -19,6 +19,4 @@ public class MethodTrackingExample {
 			e.printStackTrace();
 		}
 	}
-	
-	
 }
